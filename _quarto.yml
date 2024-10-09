@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stat_Mid"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - case1.qmd
+      - case2.qmd
+      - codes.qmd
+      - video.qmd
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

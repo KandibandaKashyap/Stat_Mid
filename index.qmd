@@ -1,0 +1,27 @@
+---
+title: "Introduction"
+---
+
+# STAT 515 MID PROJECT
+
+This Project is on Redesigning Examples of Visualization obtained from web sources.
+
+Feel free to explore around.
+
+# GROUP Members :
+
+![KASHYAP KANDIBANDA](kkpic.jpg)
+
+Hi, This is Kashyap Kandibanda, i am pursuing an MS in Data Analytics Engineering at George Mason University. With a background in mechanical engineering from Amrita School of Engineering, I have honed my problem-solving and data analysis skills. I'm passionate about using data-driven insights to solve complex problems, improve processes, and drive innovation. I also have experience in leadership roles through extracurricular activities, such as organizing workshops and volunteer projects, reflecting my teamwork and management abilities.
+
+I have gained hands-on experience through various roles, including a backend intern at GrootLabs, where I worked on optimizing backend systems for performance and scalability. I also served as an associate at GoldSquare Avenues, contributing to key decision-making and project management.
+
+![Amarnath Reddy Ganta](Amarpic.jpg)
+
+Hello Everybody! My name is Amarnath Reddy Ganta and welcome to my website!
+
+I finished my Bachelor of Technology in Computer Science and Engineering from GITAM University in Hyderabad, India. At this moment, I am doing my master's in Data Analytics and Engineering at George Mason University. My career goals include gaining expertise in Big Data and Data analytics, enhancing my career prospects, and becoming well-versed with industry requirements in Big Data - one of the major areas of interest I acquired during my internship this year.
+
+I am versed with Windows OS. I have worked with Google Collab, Jupyter Notebook, Py Torch, Eclipse, and Visual Studio Code.
+
+I have worked on AWS and Natural Language Processing (NLP) Technology during my Undergraduate and internship (during my internship this year).
