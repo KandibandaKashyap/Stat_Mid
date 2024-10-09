@@ -3,19 +3,16 @@ project:
   output-dir: docs
 
 website:
-  back-to-top-navigation: true
+  title: "Stat_Mid"
   navbar:
     left:
-      - href: Home.qmd
+      - href: index.qmd
         text: Home
-      - text: Redesign 1
-        href: Case_1.qmd
-      - text: Redesign 2
-        href: Case_2.qmd
-      - text: Codes
-        href: Code.qmd
-      - text: Video
-        href: Video.qmd
+      - case1.qmd
+      - case2.qmd
+      - codes.qmd
+      - video.qmd
+      
 
 format:
   html:
