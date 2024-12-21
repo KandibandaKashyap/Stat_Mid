@@ -4,4 +4,5 @@ title: "video"
 
 The video below discuss about our STAT 515 Mid Project:
 
-{{\<video <https://youtu.be/-4FEC6esSsI> \>}}
+{{<video <https://youtu.be/-4FEC6esSsI >}}
+---
