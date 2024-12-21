@@ -1,8 +1,7 @@
 ---
-title: "video"
+title: "Video"
 ---
 
-The video below discusses our STAT 515 Mid Project:
+The below video discuss about our STAT 515 Mid Project:
 
-{{< video src="https://youtu.be/-4FEC6esSsI" >}}
----
+{{<video https://youtu.be/1z9G2unm9kk >}}
