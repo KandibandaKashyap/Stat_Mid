@@ -5,3 +5,4 @@ title: "video"
 The below video discuss about our STAT 515 Mid Project:
 
 {{< video https://www.youtube.com/watch?v=-4FEC6esSsI >}}
+
